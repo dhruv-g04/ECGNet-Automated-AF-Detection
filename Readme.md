@@ -1,6 +1,6 @@
 # Machine Learning-based Atrial Fibrillation Detection
 
-## Authors
+## Project Team
 - Dhruv Gupta
 - Hemanth Gaddey
 - Harsh Gupta
